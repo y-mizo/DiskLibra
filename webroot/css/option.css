@@ -1,0 +1,22 @@
+.radio input[type=radio] {
+    position: absolute; 
+    margin-left: 0px; 
+}
+
+label {
+    padding-right: 20px;
+}
+
+a {
+    color: black;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: white;
+    text-decoration: none;
+}
