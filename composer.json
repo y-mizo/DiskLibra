@@ -2,7 +2,8 @@
     "name": "DiskLibra",
     "require": {
         "cakephp/cakephp": "2.8.*",
-        "cakephp/debug_kit": "^2.2.0"
+        "cakephp/debug_kit": "^2.2.0",
+        "cakedc/migrations": "~2.4.0"
     },
     "config": {
         "vendor-dir": "Vendor/"
